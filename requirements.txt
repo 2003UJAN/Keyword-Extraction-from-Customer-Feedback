@@ -1,0 +1,6 @@
+streamlit
+spacy
+yake
+keybert
+sentence-transformers
+pandas
